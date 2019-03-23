@@ -9,7 +9,7 @@ Little poke badge project
 |---|---|---|
 | Boulder Badge | NO | YES |
 | Cascade Badge | NO | YES |
-| Thunder Badge | NO | NO |
+| Thunder Badge | NO | YES |
 | Rainbow Badge | NO | NO |
 | Soul Badge | NO | NO |
 | Marsh Badge | NO | NO |
