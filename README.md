@@ -2,13 +2,13 @@
 Little poke badge project
 
 
-## Progress 
+## Progress
 ### Indigo League
 
 | Badge | DXF | 3d |
 |---|---|---|
 | Boulder Badge | NO | YES |
-| Cascade Badge | NO | NO |
+| Cascade Badge | NO | YES |
 | Thunder Badge | NO | NO |
 | Rainbow Badge | NO | NO |
 | Soul Badge | NO | NO |
