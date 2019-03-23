@@ -7,7 +7,7 @@
 | Boulder Badge | NO | YES |
 | Cascade Badge | NO | YES |
 | Thunder Badge | NO | YES |
-| Rainbow Badge | NO | NO |
+| Rainbow Badge | NO | YES |
 | Soul Badge | NO | NO |
 | Marsh Badge | NO | NO |
 | Volcano Badge | NO | NO |
