@@ -7,7 +7,7 @@ Little poke badge project
 
 | Badge | DXF | 3d |
 |---|---|---|
-| Boulder Badge | NO | NO |
+| Boulder Badge | NO | YES |
 | Cascade Badge | NO | NO |
 | Thunder Badge | NO | NO |
 | Rainbow Badge | NO | NO |
