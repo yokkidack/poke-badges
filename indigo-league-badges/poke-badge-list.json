@@ -1,0 +1,576 @@
+
+{
+    "Cissy_Badge" : {
+        "name" : "Cissy_Badge",
+        "link" : "https://bulbapedia.bulbagarden.net/wiki/File:Cissy_Badge.png",
+        "href" : "href=\"/wiki/File:Cissy_Badge.png\""
+    }
+}
+
+{
+    "Early_Badges" : {
+        "name" : "Early_Badges",
+        "link" : "https://bulbapedia.bulbagarden.net/wiki/File:Early_Badges.png",
+        "href" : "href=\"/wiki/File:Early_Badges.png\""
+    }
+}
+
+{
+    "Bag_Great_Ball_Sprite" : {
+        "name" : "Bag_Great_Ball_Sprite",
+        "link" : "https://bulbapedia.bulbagarden.net/wiki/File:Bag_Great_Ball_Sprite.png",
+        "href" : "href=\"/wiki/File:Bag_Great_Ball_Sprite.png\""
+    }
+}
+
+{
+    "Bag_Potion_Sprite" : {
+        "name" : "Bag_Potion_Sprite",
+        "link" : "https://bulbapedia.bulbagarden.net/wiki/File:Bag_Potion_Sprite.png",
+        "href" : "href=\"/wiki/File:Bag_Potion_Sprite.png\""
+    }
+}
+
+{
+    "Bag_Hyper_Potion_Sprite" : {
+        "name" : "Bag_Hyper_Potion_Sprite",
+        "link" : "https://bulbapedia.bulbagarden.net/wiki/File:Bag_Hyper_Potion_Sprite.png",
+        "href" : "href=\"/wiki/File:Bag_Hyper_Potion_Sprite.png\""
+    }
+}
+
+{
+    "Bag_Full_Restore_Sprite" : {
+        "name" : "Bag_Full_Restore_Sprite",
+        "link" : "https://bulbapedia.bulbagarden.net/wiki/File:Bag_Full_Restore_Sprite.png",
+        "href" : "href=\"/wiki/File:Bag_Full_Restore_Sprite.png\""
+    }
+}
+
+{
+    "Bag_Antidote_Sprite" : {
+        "name" : "Bag_Antidote_Sprite",
+        "link" : "https://bulbapedia.bulbagarden.net/wiki/File:Bag_Antidote_Sprite.png",
+        "href" : "href=\"/wiki/File:Bag_Antidote_Sprite.png\""
+    }
+}
+
+{
+    "Bag_Awakening_Sprite" : {
+        "name" : "Bag_Awakening_Sprite",
+        "link" : "https://bulbapedia.bulbagarden.net/wiki/File:Bag_Awakening_Sprite.png",
+        "href" : "href=\"/wiki/File:Bag_Awakening_Sprite.png\""
+    }
+}
+
+{
+    "Bag_Ice_Heal_Sprite" : {
+        "name" : "Bag_Ice_Heal_Sprite",
+        "link" : "https://bulbapedia.bulbagarden.net/wiki/File:Bag_Ice_Heal_Sprite.png",
+        "href" : "href=\"/wiki/File:Bag_Ice_Heal_Sprite.png\""
+    }
+}
+
+{
+    "Bag_Escape_Rope_Sprite" : {
+        "name" : "Bag_Escape_Rope_Sprite",
+        "link" : "https://bulbapedia.bulbagarden.net/wiki/File:Bag_Escape_Rope_Sprite.png",
+        "href" : "href=\"/wiki/File:Bag_Escape_Rope_Sprite.png\""
+    }
+}
+
+{
+    "Bag_Super_Repel_Sprite" : {
+        "name" : "Bag_Super_Repel_Sprite",
+        "link" : "https://bulbapedia.bulbagarden.net/wiki/File:Bag_Super_Repel_Sprite.png",
+        "href" : "href=\"/wiki/File:Bag_Super_Repel_Sprite.png\""
+    }
+}
+
+{
+    "Bag_Great_Ball_Sprite" : {
+        "name" : "Bag_Great_Ball_Sprite",
+        "link" : "https://bulbapedia.bulbagarden.net/wiki/File:Bag_Great_Ball_Sprite.png",
+        "href" : "href=\"/wiki/File:Bag_Great_Ball_Sprite.png\""
+    }
+}
+
+{
+    "Bag_Potion_Sprite" : {
+        "name" : "Bag_Potion_Sprite",
+        "link" : "https://bulbapedia.bulbagarden.net/wiki/File:Bag_Potion_Sprite.png",
+        "href" : "href=\"/wiki/File:Bag_Potion_Sprite.png\""
+    }
+}
+
+{
+    "Bag_Hyper_Potion_Sprite" : {
+        "name" : "Bag_Hyper_Potion_Sprite",
+        "link" : "https://bulbapedia.bulbagarden.net/wiki/File:Bag_Hyper_Potion_Sprite.png",
+        "href" : "href=\"/wiki/File:Bag_Hyper_Potion_Sprite.png\""
+    }
+}
+
+{
+    "Bag_Full_Restore_Sprite" : {
+        "name" : "Bag_Full_Restore_Sprite",
+        "link" : "https://bulbapedia.bulbagarden.net/wiki/File:Bag_Full_Restore_Sprite.png",
+        "href" : "href=\"/wiki/File:Bag_Full_Restore_Sprite.png\""
+    }
+}
+
+{
+    "Bag_Antidote_Sprite" : {
+        "name" : "Bag_Antidote_Sprite",
+        "link" : "https://bulbapedia.bulbagarden.net/wiki/File:Bag_Antidote_Sprite.png",
+        "href" : "href=\"/wiki/File:Bag_Antidote_Sprite.png\""
+    }
+}
+
+{
+    "Bag_Awakening_Sprite" : {
+        "name" : "Bag_Awakening_Sprite",
+        "link" : "https://bulbapedia.bulbagarden.net/wiki/File:Bag_Awakening_Sprite.png",
+        "href" : "href=\"/wiki/File:Bag_Awakening_Sprite.png\""
+    }
+}
+
+{
+    "Bag_Ice_Heal_Sprite" : {
+        "name" : "Bag_Ice_Heal_Sprite",
+        "link" : "https://bulbapedia.bulbagarden.net/wiki/File:Bag_Ice_Heal_Sprite.png",
+        "href" : "href=\"/wiki/File:Bag_Ice_Heal_Sprite.png\""
+    }
+}
+
+{
+    "Bag_Escape_Rope_Sprite" : {
+        "name" : "Bag_Escape_Rope_Sprite",
+        "link" : "https://bulbapedia.bulbagarden.net/wiki/File:Bag_Escape_Rope_Sprite.png",
+        "href" : "href=\"/wiki/File:Bag_Escape_Rope_Sprite.png\""
+    }
+}
+
+{
+    "Bag_Super_Repel_Sprite" : {
+        "name" : "Bag_Super_Repel_Sprite",
+        "link" : "https://bulbapedia.bulbagarden.net/wiki/File:Bag_Super_Repel_Sprite.png",
+        "href" : "href=\"/wiki/File:Bag_Super_Repel_Sprite.png\""
+    }
+}
+
+{
+    "Bag_Great_Ball_Sprite" : {
+        "name" : "Bag_Great_Ball_Sprite",
+        "link" : "https://bulbapedia.bulbagarden.net/wiki/File:Bag_Great_Ball_Sprite.png",
+        "href" : "href=\"/wiki/File:Bag_Great_Ball_Sprite.png\""
+    }
+}
+
+{
+    "Bag_Potion_Sprite" : {
+        "name" : "Bag_Potion_Sprite",
+        "link" : "https://bulbapedia.bulbagarden.net/wiki/File:Bag_Potion_Sprite.png",
+        "href" : "href=\"/wiki/File:Bag_Potion_Sprite.png\""
+    }
+}
+
+{
+    "Bag_Hyper_Potion_Sprite" : {
+        "name" : "Bag_Hyper_Potion_Sprite",
+        "link" : "https://bulbapedia.bulbagarden.net/wiki/File:Bag_Hyper_Potion_Sprite.png",
+        "href" : "href=\"/wiki/File:Bag_Hyper_Potion_Sprite.png\""
+    }
+}
+
+{
+    "Bag_Full_Restore_Sprite" : {
+        "name" : "Bag_Full_Restore_Sprite",
+        "link" : "https://bulbapedia.bulbagarden.net/wiki/File:Bag_Full_Restore_Sprite.png",
+        "href" : "href=\"/wiki/File:Bag_Full_Restore_Sprite.png\""
+    }
+}
+
+{
+    "Bag_Antidote_Sprite" : {
+        "name" : "Bag_Antidote_Sprite",
+        "link" : "https://bulbapedia.bulbagarden.net/wiki/File:Bag_Antidote_Sprite.png",
+        "href" : "href=\"/wiki/File:Bag_Antidote_Sprite.png\""
+    }
+}
+
+{
+    "Bag_Awakening_Sprite" : {
+        "name" : "Bag_Awakening_Sprite",
+        "link" : "https://bulbapedia.bulbagarden.net/wiki/File:Bag_Awakening_Sprite.png",
+        "href" : "href=\"/wiki/File:Bag_Awakening_Sprite.png\""
+    }
+}
+
+{
+    "Bag_Ice_Heal_Sprite" : {
+        "name" : "Bag_Ice_Heal_Sprite",
+        "link" : "https://bulbapedia.bulbagarden.net/wiki/File:Bag_Ice_Heal_Sprite.png",
+        "href" : "href=\"/wiki/File:Bag_Ice_Heal_Sprite.png\""
+    }
+}
+
+{
+    "Bag_Escape_Rope_Sprite" : {
+        "name" : "Bag_Escape_Rope_Sprite",
+        "link" : "https://bulbapedia.bulbagarden.net/wiki/File:Bag_Escape_Rope_Sprite.png",
+        "href" : "href=\"/wiki/File:Bag_Escape_Rope_Sprite.png\""
+    }
+}
+
+{
+    "Bag_Super_Repel_Sprite" : {
+        "name" : "Bag_Super_Repel_Sprite",
+        "link" : "https://bulbapedia.bulbagarden.net/wiki/File:Bag_Super_Repel_Sprite.png",
+        "href" : "href=\"/wiki/File:Bag_Super_Repel_Sprite.png\""
+    }
+}
+
+{
+    "Boulder_Badge" : {
+        "name" : "Boulder_Badge",
+        "link" : "https://bulbapedia.bulbagarden.net/wiki/File:Boulder_Badge.png",
+        "href" : "href=\"/wiki/File:Boulder_Badge.png\""
+    }
+}
+
+{
+    "Thunder_Badge" : {
+        "name" : "Thunder_Badge",
+        "link" : "https://bulbapedia.bulbagarden.net/wiki/File:Thunder_Badge.png",
+        "href" : "href=\"/wiki/File:Thunder_Badge.png\""
+    }
+}
+
+{
+    "Soul_Badge" : {
+        "name" : "Soul_Badge",
+        "link" : "https://bulbapedia.bulbagarden.net/wiki/File:Soul_Badge.png",
+        "href" : "href=\"/wiki/File:Soul_Badge.png\""
+    }
+}
+
+{
+    "Volcano_Badge" : {
+        "name" : "Volcano_Badge",
+        "link" : "https://bulbapedia.bulbagarden.net/wiki/File:Volcano_Badge.png",
+        "href" : "href=\"/wiki/File:Volcano_Badge.png\""
+    }
+}
+
+{
+    "Zephyr_Badge" : {
+        "name" : "Zephyr_Badge",
+        "link" : "https://bulbapedia.bulbagarden.net/wiki/File:Zephyr_Badge.png",
+        "href" : "href=\"/wiki/File:Zephyr_Badge.png\""
+    }
+}
+
+{
+    "Plain_Badge" : {
+        "name" : "Plain_Badge",
+        "link" : "https://bulbapedia.bulbagarden.net/wiki/File:Plain_Badge.png",
+        "href" : "href=\"/wiki/File:Plain_Badge.png\""
+    }
+}
+
+{
+    "Storm_Badge" : {
+        "name" : "Storm_Badge",
+        "link" : "https://bulbapedia.bulbagarden.net/wiki/File:Storm_Badge.png",
+        "href" : "href=\"/wiki/File:Storm_Badge.png\""
+    }
+}
+
+{
+    "Glacier_Badge" : {
+        "name" : "Glacier_Badge",
+        "link" : "https://bulbapedia.bulbagarden.net/wiki/File:Glacier_Badge.png",
+        "href" : "href=\"/wiki/File:Glacier_Badge.png\""
+    }
+}
+
+{
+    "Stone_Badge" : {
+        "name" : "Stone_Badge",
+        "link" : "https://bulbapedia.bulbagarden.net/wiki/File:Stone_Badge.png",
+        "href" : "href=\"/wiki/File:Stone_Badge.png\""
+    }
+}
+
+{
+    "Dynamo_Badge" : {
+        "name" : "Dynamo_Badge",
+        "link" : "https://bulbapedia.bulbagarden.net/wiki/File:Dynamo_Badge.png",
+        "href" : "href=\"/wiki/File:Dynamo_Badge.png\""
+    }
+}
+
+{
+    "Balance_Badge" : {
+        "name" : "Balance_Badge",
+        "link" : "https://bulbapedia.bulbagarden.net/wiki/File:Balance_Badge.png",
+        "href" : "href=\"/wiki/File:Balance_Badge.png\""
+    }
+}
+
+{
+    "Mind_Badge" : {
+        "name" : "Mind_Badge",
+        "link" : "https://bulbapedia.bulbagarden.net/wiki/File:Mind_Badge.png",
+        "href" : "href=\"/wiki/File:Mind_Badge.png\""
+    }
+}
+
+{
+    "Coal_Badge" : {
+        "name" : "Coal_Badge",
+        "link" : "https://bulbapedia.bulbagarden.net/wiki/File:Coal_Badge.png",
+        "href" : "href=\"/wiki/File:Coal_Badge.png\""
+    }
+}
+
+{
+    "Cobble_Badge" : {
+        "name" : "Cobble_Badge",
+        "link" : "https://bulbapedia.bulbagarden.net/wiki/File:Cobble_Badge.png",
+        "href" : "href=\"/wiki/File:Cobble_Badge.png\""
+    }
+}
+
+{
+    "Relic_Badge" : {
+        "name" : "Relic_Badge",
+        "link" : "https://bulbapedia.bulbagarden.net/wiki/File:Relic_Badge.png",
+        "href" : "href=\"/wiki/File:Relic_Badge.png\""
+    }
+}
+
+{
+    "Icicle_Badge" : {
+        "name" : "Icicle_Badge",
+        "link" : "https://bulbapedia.bulbagarden.net/wiki/File:Icicle_Badge.png",
+        "href" : "href=\"/wiki/File:Icicle_Badge.png\""
+    }
+}
+
+{
+    "Trio_Badge" : {
+        "name" : "Trio_Badge",
+        "link" : "https://bulbapedia.bulbagarden.net/wiki/File:Trio_Badge.png",
+        "href" : "href=\"/wiki/File:Trio_Badge.png\""
+    }
+}
+
+{
+    "Insect_Badge" : {
+        "name" : "Insect_Badge",
+        "link" : "https://bulbapedia.bulbagarden.net/wiki/File:Insect_Badge.png",
+        "href" : "href=\"/wiki/File:Insect_Badge.png\""
+    }
+}
+
+{
+    "Quake_Badge" : {
+        "name" : "Quake_Badge",
+        "link" : "https://bulbapedia.bulbagarden.net/wiki/File:Quake_Badge.png",
+        "href" : "href=\"/wiki/File:Quake_Badge.png\""
+    }
+}
+
+{
+    "Freeze_Badge" : {
+        "name" : "Freeze_Badge",
+        "link" : "https://bulbapedia.bulbagarden.net/wiki/File:Freeze_Badge.png",
+        "href" : "href=\"/wiki/File:Freeze_Badge.png\""
+    }
+}
+
+{
+    "Basic_Badge" : {
+        "name" : "Basic_Badge",
+        "link" : "https://bulbapedia.bulbagarden.net/wiki/File:Basic_Badge.png",
+        "href" : "href=\"/wiki/File:Basic_Badge.png\""
+    }
+}
+
+{
+    "Insect_Badge" : {
+        "name" : "Insect_Badge",
+        "link" : "https://bulbapedia.bulbagarden.net/wiki/File:Insect_Badge.png",
+        "href" : "href=\"/wiki/File:Insect_Badge.png\""
+    }
+}
+
+{
+    "Quake_Badge" : {
+        "name" : "Quake_Badge",
+        "link" : "https://bulbapedia.bulbagarden.net/wiki/File:Quake_Badge.png",
+        "href" : "href=\"/wiki/File:Quake_Badge.png\""
+    }
+}
+
+{
+    "Legend_Badge" : {
+        "name" : "Legend_Badge",
+        "link" : "https://bulbapedia.bulbagarden.net/wiki/File:Legend_Badge.png",
+        "href" : "href=\"/wiki/File:Legend_Badge.png\""
+    }
+}
+
+{
+    "Bug_Badge" : {
+        "name" : "Bug_Badge",
+        "link" : "https://bulbapedia.bulbagarden.net/wiki/File:Bug_Badge.png",
+        "href" : "href=\"/wiki/File:Bug_Badge.png\""
+    }
+}
+
+{
+    "Rumble_Badge" : {
+        "name" : "Rumble_Badge",
+        "link" : "https://bulbapedia.bulbagarden.net/wiki/File:Rumble_Badge.png",
+        "href" : "href=\"/wiki/File:Rumble_Badge.png\""
+    }
+}
+
+{
+    "Voltage_Badge" : {
+        "name" : "Voltage_Badge",
+        "link" : "https://bulbapedia.bulbagarden.net/wiki/File:Voltage_Badge.png",
+        "href" : "href=\"/wiki/File:Voltage_Badge.png\""
+    }
+}
+
+{
+    "Psychic_Badge" : {
+        "name" : "Psychic_Badge",
+        "link" : "https://bulbapedia.bulbagarden.net/wiki/File:Psychic_Badge.png",
+        "href" : "href=\"/wiki/File:Psychic_Badge.png\""
+    }
+}
+
+{
+    "Sea_Ruby_Badge" : {
+        "name" : "Sea_Ruby_Badge",
+        "link" : "https://bulbapedia.bulbagarden.net/wiki/File:Sea_Ruby_Badge.png",
+        "href" : "href=\"/wiki/File:Sea_Ruby_Badge.png\""
+    }
+}
+
+{
+    "Jade_Star_Badge" : {
+        "name" : "Jade_Star_Badge",
+        "link" : "https://bulbapedia.bulbagarden.net/wiki/File:Jade_Star_Badge.png",
+        "href" : "href=\"/wiki/File:Jade_Star_Badge.png\""
+    }
+}
+
+{
+    "Ash_Fen_Badge" : {
+        "name" : "Ash_Fen_Badge",
+        "link" : "https://bulbapedia.bulbagarden.net/wiki/File:Ash_Fen_Badge.png",
+        "href" : "href=\"/wiki/File:Ash_Fen_Badge.png\""
+    }
+}
+
+{
+    "Many_Unknown_Kanto_Badges" : {
+        "name" : "Many_Unknown_Kanto_Badges",
+        "link" : "https://bulbapedia.bulbagarden.net/wiki/File:Many_Unknown_Kanto_Badges.png",
+        "href" : "href=\"/wiki/File:Many_Unknown_Kanto_Badges.png\""
+    }
+}
+
+{
+    "Otoshi_Badges" : {
+        "name" : "Otoshi_Badges",
+        "link" : "https://bulbapedia.bulbagarden.net/wiki/File:Otoshi_Badges.png",
+        "href" : "href=\"/wiki/File:Otoshi_Badges.png\""
+    }
+}
+
+{
+    "Morrison_Last_Badge" : {
+        "name" : "Morrison_Last_Badge",
+        "link" : "https://bulbapedia.bulbagarden.net/wiki/File:Morrison_Last_Badge.png",
+        "href" : "href=\"/wiki/File:Morrison_Last_Badge.png\""
+    }
+}
+
+{
+    "Nando_Badges" : {
+        "name" : "Nando_Badges",
+        "link" : "https://bulbapedia.bulbagarden.net/wiki/File:Nando_Badges.png",
+        "href" : "href=\"/wiki/File:Nando_Badges.png\""
+    }
+}
+
+{
+    "Cameron_Badges" : {
+        "name" : "Cameron_Badges",
+        "link" : "https://bulbapedia.bulbagarden.net/wiki/File:Cameron_Badges.png",
+        "href" : "href=\"/wiki/File:Cameron_Badges.png\""
+    }
+}
+
+{
+    "Pokemon_League_Badge" : {
+        "name" : "Pokemon_League_Badge",
+        "link" : "https://bulbapedia.bulbagarden.net/wiki/File:Pokemon_League_Badge.png",
+        "href" : "href=\"/wiki/File:Pokemon_League_Badge.png\""
+    }
+}
+
+{
+    "Sinnoh_Gym_Badges_Adventures" : {
+        "name" : "Sinnoh_Gym_Badges_Adventures",
+        "link" : "https://bulbapedia.bulbagarden.net/wiki/File:Sinnoh_Gym_Badges_Adventures.png",
+        "href" : "href=\"/wiki/File:Sinnoh_Gym_Badges_Adventures.png\""
+    }
+}
+
+{
+    "Ash_Kanto_Badges_EToP" : {
+        "name" : "Ash_Kanto_Badges_EToP",
+        "link" : "https://bulbapedia.bulbagarden.net/wiki/File:Ash_Kanto_Badges_EToP.png",
+        "href" : "href=\"/wiki/File:Ash_Kanto_Badges_EToP.png\""
+    }
+}
+
+{
+    "Ash_Orange_Islands_Badges_EToP" : {
+        "name" : "Ash_Orange_Islands_Badges_EToP",
+        "link" : "https://bulbapedia.bulbagarden.net/wiki/File:Ash_Orange_Islands_Badges_EToP.png",
+        "href" : "href=\"/wiki/File:Ash_Orange_Islands_Badges_EToP.png\""
+    }
+}
+
+{
+    "Diamond_Badge" : {
+        "name" : "Diamond_Badge",
+        "link" : "https://bulbapedia.bulbagarden.net/wiki/File:Diamond_Badge.png",
+        "href" : "href=\"/wiki/File:Diamond_Badge.png\""
+    }
+}
+
+{
+    "Earth_Badge" : {
+        "name" : "Earth_Badge",
+        "link" : "https://bulbapedia.bulbagarden.net/wiki/File:Earth_Badge.png",
+        "href" : "href=\"/wiki/File:Earth_Badge.png\""
+    }
+}
+
+{
+    "Legend_Badge_slot" : {
+        "name" : "Legend_Badge_slot",
+        "link" : "https://bulbapedia.bulbagarden.net/wiki/File:Legend_Badge_slot.png",
+        "href" : "href=\"/wiki/File:Legend_Badge_slot.png\""
+    }
+}
