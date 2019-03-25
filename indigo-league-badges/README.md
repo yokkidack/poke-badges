@@ -8,7 +8,7 @@
 | Cascade Badge | NO | YES |
 | Thunder Badge | NO | YES |
 | Rainbow Badge | NO | YES |
-| Soul Badge | NO | NO |
+| Soul Badge | NO | YES |
 | Marsh Badge | NO | NO |
 | Volcano Badge | NO | NO |
 | Earth Badge | NO | NO |
