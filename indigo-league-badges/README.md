@@ -11,4 +11,4 @@
 | Soul Badge | NO | YES |
 | Marsh Badge | NO | YES |
 | Volcano Badge | NO | NO |
-| Earth Badge | NO | NO |
+| Earth Badge | NO | YES |
