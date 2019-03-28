@@ -3,15 +3,15 @@ Little poke badge project
 
 
 ## Progress
-### Indigo League
 
-| Badge | DXF | 3d |
-|---|---|---|
-| Boulder Badge | NO | YES |
-| Cascade Badge | NO | YES |
-| Thunder Badge | NO | YES |
-| Rainbow Badge | NO | YES |
-| Soul Badge | NO | YES |
-| Marsh Badge | NO | YES |
-| Volcano Badge | NO | YES |
-| Earth Badge | NO | YES |
+| stage | progress |
+|---|---|
+| Indigo League (Kanto) | 8/8 + League Badge |
+| Johto League  | 4/8 |
+| Hoenn League  | 0/8 |
+| Sinnoh League | 0/8 |
+| Unova League  | 0/8 |
+| Black 2 and White 2 | 0/8 |
+| Kalos League  | 0/8 |
+| Orange League | 0/8 |
+
