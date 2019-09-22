@@ -7,7 +7,7 @@ Little poke badge project
 | stage | progress |
 |---|---|
 | Indigo League (Kanto) | 8/8 + League Badge |
-| Johto League  | 8/8 |
+| Johto League  | 8/8 + Conference Badge|
 | Hoenn League  | 3/8 |
 | Sinnoh League | 0/8 |
 | Unova League  | 0/8 |
